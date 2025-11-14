@@ -1,0 +1,75 @@
+Sharan Kumar Thummala
+
+Hyderabad, India 500047 | +91 8179169344 | thummalasharan@gmail.com
+
+linkedin.com/in/sharan-kumar-thummala | x.com/sharankumar1232 | github.com/ThummalaSharanKumar
+
+Professional Summary
+Entrepreneur with a strong work ethic combined with excellent communication skills including presenting in front
+of diverse audiences, from college events to startup pitches. Ability to solve problems and find solutions quickly
+whilst also staying calm under pressure. Experienced working both independently and as part of a team through
+university projects, tutoring, and leadership in student/startup initiatives. Strong organizational skills shown
+through managing multiple roles—student, developer, and operations head—alongside ongoing academic
+responsibilities. Currently undertaking a B.E. in Computer Science (CSM) at CBIT.
+
+Work History
+Project
+
+COSC CBIT Hackathon -
+Hyderabad, Telangana
+
+Sentiment Analysis Web Application
+• Designed and developed a sentiment analysis tool using Python and machine learning to classify user-generated
+
+text as positive, negative, or neutral.
+
+• Implemented data preprocessing (tokenization, stopword removal, vectorization) using NLTK and scikit-learn.
+• Trained models like Logistic Regression / Naive Bayes / SVM on labeled datasets to improve accuracy and
+
+performance.
+
+• Built an interactive web interface using Flask (or Streamlit) to allow users to input text and get instant
+
+sentiment feedback.
+
+• Added real-time visualizations (pie charts or bar graphs) to represent sentiment distribution.
+• Focused on code modularity, clean UI, and user-friendly deployment.
+
+Skills
+• Communication Leadership: Communication skills, Public speaking, Leadership, Strategic planning,
+
+Stakeholder collaboration, Agile methodology adoption
+
+• Programming Languages: C/C++ programming language, Python coding, Java, JavaScript proficiency
+• Web Development: HTML5 and CSS3 proficiency, Full-stack development, Algorithm optimization
+• Specialized Skills: Big data handling, Artificial intelligence proficiency
+
+Education
+Bachelor of Engineering: CSE-AIML, Chaitanya Bharathi Institute of Technology –
+Gandipet, IN-TS
+
+09/2023 – Current
+
+Languages
+• English: Proficient (C2)
+• Hindi: Proficient (C2)
+• Telugu: Proficient (C2)
+
+Hobbies and Interest
+• Music
+• Driving
+• News
+• Exploring new tech
+
+Awards, Accomplishments, and Honours
+• IOQM (Maths Olympiad) Qualified
+• JEE - 97%
+• TSEAMCET rank - 3196
+
+Certifications and Licenses
+• GOOGLE Data Analytics certification
+• Full stack development certification from Infosys Spring Board
+• Data science certification from Udemy
+• Multiple hackathon participations
+
+

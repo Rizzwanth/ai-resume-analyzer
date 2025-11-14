@@ -1,0 +1,95 @@
+Deepak Padhi
+Learning Web Developer
+Mumbai, Maharashtra
+dnoobnerd@gmail.com
+8123456790
+
+Passionate to learn new technologies, skills and Always willing to innovate new things. 
+
+EDUCATION
+
+Bachelor of Science (B.Sc), Computer Science 
+Kirti M Doongursee College Dadar 
+2021 - Present 
+
+Senior Secondary (XII), Science 
+Vidyanidhi Jr College Of Science 
+Year of completion: 2020 
+Percentage: 00.00% 
+
+Secondary (X) 
+St Xavier High School 
+Year of completion: 2018 
+Percentage: 00.00% 
+
+INTERNSHIPS
+
+Crack Leaked Password Database 
+
+Forage Goldman Sachs
+(Engineering Virtual Program), Virtual 
+
+Dec 2020 - Jan 2021
+
+Learnt to Analyze results and propose uplifts to controls and 
+policies.
+
+Interface With A Stock Price Data Feed
+
+Forage Jp Morgan Chase And Co 
+(Software Engineering Virtual Experience), Virtual 
+
+Nov 2020 - Dec 2020 
+
+Led to Interface with a stock price data feed and set up my 
+system for analysis of the data, Implement the Perspective 
+open source code in preparation for data visualization, Use 
+Perspective to create the chart for the trader’s dashboard. 
+
+PROJECTS
+
+Resume Analyzer
+
+A Résumé parsing tool that converts an unstructured 
+form of resume data into a structured format. 
+
+WhatsApp Chat Analyzer
+
+A Tool that analyses user uploaded chat and as a result 
+visualizes data in different format
+
+SKILLS
+
+Python 
+Intermediate 
+
+JavaScript 
+Intermediate 
+
+C# 
+Beginner 
+
+HTML 
+Advanced 
+
+CSS 
+Intermediate 
+
+SQL 
+Intermediate 
+
+ASP.NET 
+Intermediate 
+
+Node.js 
+Beginner 
+
+Online Profiles 
+
+Portfolio Website
+https://dnoobnerd.netlify.app/
+
+GitHub Profile
+https://github.com/deepakpadhi986/
+
+

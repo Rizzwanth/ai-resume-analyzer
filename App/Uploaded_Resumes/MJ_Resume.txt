@@ -1,0 +1,102 @@
+Hyd, India
+July 2023-current
+
+Remote
+Jan 2022- Jun 2022
+
+Sudheer Jalli
+Portfolio: sudheers-portfolio.netlify.app/home
+Github: github.com/Sudheer19028
+Linkedin: Sudheer Jalli
+Education
+
+Email:sudheerjalli123@gmail.com
+Mobile:+91-9014115994
+
+• Amrita Vishwa VidyaPeetham
+
+Bachelor of Technology - Computer and Communication (CGPA: 7.24/10)
+Courses: Operating Systems, Data Structures and Algorithms, Machine Learning, Networking, Databases
+
+Coimbatore, India
+July 2019 - June 2023
+
+Experience
+
+• Bank of America
+Software Engineer
+
+◦ Working as a DevOps Engineer to the BofA cloud Hosting services.
+◦ As a DevOps Engineer I’m responsible for Release Engineering,Infrastructure Management,Process Automation
+
+and optimize an organization’s software development lifecycle.
+
+Projects
+
+• SMART DOORBELL SYSTEM
+
+Amrita Vishwa Vidyapeetham
+
+◦ Used Raspberry pi to receive alerts when a visitor is at the door.
+◦ The System is composed of the doorbell interfaced with raspberry pi, whoever presses the doorbell, the camera
+
+gets triggered and captures their face and send to the owner’s android application.
+
+Amrita Vishwa Vidyapeetham
+
+• WEATHER FORECAST WEBSITE
+◦ Designed using HTML,CSS,Javascript.
+◦ This global website presents OFFICIAL weather observations, weather forecasts and climatological information
+
+Remote
+Jul 2021 - Sep 2021
+
+for selected cities by using Open Weather Services worldwide.
+
+• CROP PREDICTION SYSTEM
+
+Amrita Vishwa Vidyapeetham
+
+Remote
+Jul 2022 - Present
+
+◦ By using Machine Learning classification algorithms predicted the high yield crop.
+◦ Working on Front-end web development and Flask to display live data streams and used statistical tools for
+
+computation and understanding of data.
+
+Achievements
+• Solved 300+ problems on Leetcode.
+• 100 days Leetcode Badge 2022.
+• Problem Solving (BASIC) certification from HACKER-RANK.
+• 2948 rank in EAMCET 2018-2019
+
+Scikit, TensorFlow, Flask, ReactJS
+
+C++, Python, JavaScript, SQL, YAML
+
+GIT, MySQL, XLR, Ansible tower, Jenkins
+
+Skills Summary
+• Languages:
+• Frameworks:
+• Tools:
+• Platforms:
+• Soft Skills:
+Leadership/Extracurricular
+• Volunteered for finance department at Anokha tech fest.
+• Attended Lab View workshop conducted at Amrita Coimbatore
+• Member of Amrita Executive Committee webdesign team
+
+Web, Windows, Arduino, Raspberry,Netlify,AWS
+
+Leadership, Writing, Public Speaking, Time Management
+
+Profile Links
+• Leetcode: leetcode.com/sudheerjalli123/
+• Hackerrank: hackerrank.com/sudheerjalli123
+Personal details
+• Hobbies: Reading Books,Coding,Playing Cricket, Music.
+• Languages: English,Telugu,Hindi.
+
+

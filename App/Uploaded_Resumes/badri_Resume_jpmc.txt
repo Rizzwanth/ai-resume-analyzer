@@ -1,0 +1,125 @@
+Badrinath Achanta 
+Email: badrinathachanta@gmail.com 
+GitHub: https://github.com/badrinath2605                                                                                                       Mobile: +91 88975 11852 
+LinkedIn: https://www.linkedin.com/in/achanta-badrinath-34490a285 
+ 
+Education: Studying B. Tech 2nd year in CBIT, HYD 
+
+• Chaitanya Bharati Institute of Technology  
+
+Bachelor of Technology - Computer Science (Artificial Intelligence and Machine Learning) (CGPA: 8.9/10) 
+
+Courses: Operating Systems, Data Structures and Algorithms, Machine Learning, Networking, Databases 
+
+Projects 
+
+•  Website for R&I Club of CBIT                          Chaitanya Bharathi Institute of Technology 
+
+ 
+
+Telangana, India 
+
+ 
+
+ 
+
+ 
+
+▪  Designed using HTML, CSS, JavaScript. 
+▪  Live website supporting club activities and updates.                                                            
+
+ 
+
+•  Notes & Files App                                                              Personal Project 
+
+▪  Designed using HTML, CSS, JavaScript, python, SQL. 
+▪  User authentication, file storage, and notes management  
+
+• 
+
+  Finance Dashboard                                                         Personal Project 
+
+▪  Designed using HTML, CSS, JavaScript, python, SQLite. 
+▪  Analytics dashboard with dynamic charts and financial data visualization 
+
+• 
+
+  Time Table with Cool Features                                     Personal Project 
+
+▪  Designed using Python, HTML, CSS, JavaScript, and SQL. 
+▪  Developed a dynamic timetable management app with an interactive, responsive UI. 
+▪ 
+Integrated a database for schedule storage and supported additional modules for class 
+and room. 
+
+•  Robovanza2k25                                                  Chaitanya Bharathi Institute of Technology 
+
+▪  Designed using Python, HTML, CSS, JavaScript, and SQL. 
+▪  Web app for managing robotics competition events with admin login for live score 
+
+updates, event creation, scheduling, and database management using dedicated 
+scripts.. 
+
+▪  Deployed on railway.app for cloud hosting 
+
+Achievements 
+
+•  97.7 percentile in JEE mains, 3152 Rank in EAMCET 2018-2019 
+
+•  Certified in Artificial Intelligence/Machine Learning Specialisation (6-month course) from IIIT Hyderabad (iHub-Data) – 
+
+Sep 2024 to Mar 2025 (Certificate ID: 160123748029) 
+
+•  Google Data Analytics Professional Certificate – Completed an 8-course online specialization by Google; proficient in 
+
+ 
+
+spreadsheets, SQL, Tableau, and R. 
+
+•  Problem Solving and programming in java certification from NPTEL 
+
+•  Problem Solving and programming in C certification from NPTEL 
+
+•  Secured 2nd place in Robo-Sumo event in Atoms(BITS HYD Technical Fest). 
+
+ 
+Skills Summary 
+
+•  Languages: 
+
+C, Python, Java, JavaScript, SQL, R, SQLite, MongoDB, Data Analytics 
+
+•  Frameworks: 
+
+ Flask, ReactJS, ExpressJS, NodeJS 
+
+•  Tools:                    GIT, MySQL, Github,  
+
+•  Platforms: 
+
+Web, Windows, Railway.app, &Arduino 
+
+•  Soft Skills: 
+ Leadership/Extracurricular 
+
+Data Analytics, Leadership, Writing, Public Speaking, Time Management, Adaptability  and Collaboration 
+
+•  Deputy head of publicity department of R&I club of CBIT. 
+
+•  HR for the Robovanza(2025) – Flagship event of R&I CBIT. 
+
+•  Member of events department of Neural Nexus club CBIT. 
+
+Personal details 
+
+•  Hobbies: Chess, Reading Books, Coding, Playing Basketball, Music. 
+
+•  Languages: English, Telugu, Hindi. 
+
+ 
+
+ 
+
+ 
+
+

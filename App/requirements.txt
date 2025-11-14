@@ -1,0 +1,10 @@
+streamlit
+pandas
+geocoder
+plotly
+geopy
+pdfminer3
+Pillow
+nltk
+spacy==3.2.0
+google-generativeai
